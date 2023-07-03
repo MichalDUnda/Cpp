@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/builderCRTPPattern/Builder.hpp
+string
+-
+iostream
+-
+memory
+-
+Vehicle.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/builderCRTPPattern/Vehicle.h
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/builderCRTPPattern/Vehicle.h
+string
+-
+iostream
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/builderCRTPPattern/main.cpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+string
+-
+iostream
+-
+Vehicle.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/builderCRTPPattern/Vehicle.h
+Builder.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/builderCRTPPattern/Builder.hpp
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/src/MyClass.hpp
+iostream
+-
+memory
+-
+
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+MyClass.hpp
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/src/MyClass.hpp
+algorithm
+-
+assert.h
+-
+

@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++     CMakeFiles/adapter.dir/adapter.cpp.o  -o adapter 

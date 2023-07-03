@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/ChatRoom.cpp
+Person.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/Person.hpp
+ChatRoom.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/ChatRoom.hpp
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/ChatRoom.hpp
+algorithm
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/Person.cpp
+Person.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/Person.hpp
+ChatRoom.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/ChatRoom.hpp
+iostream
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/Person.hpp
+string
+-
+vector
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/mediator.cpp
+iostream
+-
+string
+-
+algorithm
+-
+vector
+-
+Person.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/Person.hpp
+ChatRoom.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/mediator/ChatRoom.hpp
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/proxy/proxy.cpp
+string
+-
+iostream
+-
+vector
+-
+sstream
+-
+

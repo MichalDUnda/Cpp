@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/singleton/singleton.hpp
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+vector
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/singleton/test/main.cpp
+../singleton.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/singleton/singleton.hpp
+gtest/gtest.h
+-
+

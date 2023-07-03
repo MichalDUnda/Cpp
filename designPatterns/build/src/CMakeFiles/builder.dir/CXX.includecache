@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/Person.h
+string
+-
+iostream
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonAddressBuilder.h
+string
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonBuilder.h
+Person.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/Person.h
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonJobBuilder.h
+PersonBuilder.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonBuilder.h
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+string
+-
+Person.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/Person.h
+PersonBuilder.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonBuilder.h
+PersonAddressBuilder.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonAddressBuilder.h
+PersonJobBuilder.h
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/src/PersonJobBuilder.h
+

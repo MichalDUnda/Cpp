@@ -1,0 +1,13 @@
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/CMakeFiles/install/strip.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/CMakeFiles/install/local.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/CMakeFiles/install.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/CMakeFiles/list_install_components.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/CMakeFiles/rebuild_cache.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/CMakeFiles/edit_cache.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/install/strip.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/install/local.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/install.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/list_install_components.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/rebuild_cache.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/edit_cache.dir
+/home/michaldunda/Projects/ownProjects/C++/smallStafs/build/src/CMakeFiles/ConstructorGuard.dir

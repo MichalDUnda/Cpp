@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++     CMakeFiles/testfoo.dir/main.cpp.o  -o testfoo  -lgtest -lpthread -lgtest -lgmock -lgtest_main 

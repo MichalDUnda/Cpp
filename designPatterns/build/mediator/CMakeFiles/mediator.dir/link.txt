@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++     CMakeFiles/mediator.dir/ChatRoom.cpp.o CMakeFiles/mediator.dir/mediator.cpp.o CMakeFiles/mediator.dir/Person.cpp.o  -o mediator 

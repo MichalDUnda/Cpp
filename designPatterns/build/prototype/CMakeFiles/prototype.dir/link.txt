@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++     CMakeFiles/prototype.dir/main.cpp.o  -o prototype 

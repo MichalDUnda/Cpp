@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/DrinkFactory.hpp
+string
+-
+HotDrink.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrink.hpp
+HotDrinkFactory.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrinkFactory.hpp
+map
+-
+functional
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrink.hpp
+memory
+-
+map
+-
+iostream
+-
+string
+-
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrinkFactory.hpp
+HotDrink.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrink.hpp
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/main.cpp
+cmath
+-
+iostream
+-
+HotDrink.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrink.hpp
+HotDrinkFactory.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/HotDrinkFactory.hpp
+DrinkFactory.hpp
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/factories/AbstractFactory/DrinkFactory.hpp
+

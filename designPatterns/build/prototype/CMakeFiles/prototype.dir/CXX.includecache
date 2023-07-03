@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/prototype/main.cpp
+string
+-
+iostream
+-
+memory
+-
+functional
+-
+sstream
+-
+boost/serialization/serialization.hpp
+-
+boost/archive/binary_iarchive.hpp
+-
+boost/archive/binary_oarchive.hpp
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaldunda/Projects/ownProjects/C++/firstPattern/decorator/decorator.cpp
+string
+-
+iostream
+-
+vector
+-
+sstream
+-
+boost/algorithm/string.hpp
+-
+boost/lexical_cast.hpp
+-
+
